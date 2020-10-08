@@ -9,8 +9,8 @@ Here are some work examples:
 
 <details>
 <summary>Repos meant to remind future me😄</summary>    
-<li>🌱 [Webpack Configuration](https://github.com/stewartli/reactjs)</li>       
-<li>🌱 [Makefile]()</li>         
+<li>🌱 <a href="https://github.com/stewartli/reactjs">Webpack Configuration</a></li>       
+<li>🌱 <a href="">Makefile</a></li>         
 </details>
 
 <p align="center">
