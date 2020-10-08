@@ -1,5 +1,5 @@
 ### ✨Audit Data Analytics (ADA)✨
-I'm a Chartered Accoutnant at [RAudit Solution LLP](https://rauditsolution.netlify.app/) performing data analytics/sciense in the field of accountinig. 
+I'm a Chartered Accoutnant at [RAudit Solution LLP](https://rauditsolution.netlify.app/) performing data analytics/science in the field of accountinig. 
 
 Here are some work examples:     
 ⚡ [R Blog](https://raudit.netlify.app/)     
