@@ -5,7 +5,7 @@ Here are some work examples:
 ⚡ [R Blog](https://raudit.netlify.app/)     
 ⚡ [ADA Trainng](https://stewartli.github.io/ada_tutorial/)     
 ⚡ [ADA Book](https://stewartli.github.io/ada_book/)    
-⚡ [Published Journal Article]()    
+⚡ [Published Journal Article](https://doi.org/10.1108/MEDAR-06-2020-0920)    
 
 <details>
 <summary>Repos meant to remind future me😄</summary>    
