@@ -11,7 +11,8 @@ Here are some work examples:
 <details>
 <summary>Repos meant to remind future me😄</summary>    
 <li>🌱 <a href="https://github.com/stewartli/reactjs">Webpack Configuration</a></li>       
-<li>🌱 <a href="https://github.com/stewartli/makefile">Makefile</a></li>         
+<li>🌱 <a href="https://github.com/stewartli/makefile">Makefile</a></li>    
+<li>🌱 <a href="https://github.com/stewartli/tailwindcss">Tailwindcss</a></li>      
 </details>
 
 <p align="center">
