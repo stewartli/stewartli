@@ -2,6 +2,7 @@
 I'm a Chartered Accountant at [RAudit Solution LLP](https://rauditsolution.netlify.app/) performing data analytics/science in the field of accountinig. 
 
 Here are some work examples:     
+⚡ [Consulting Service](https://stewartli.github.io/tailwindcss/) 
 ⚡ [R Blog](https://raudit.netlify.app/)     
 ⚡ [ADA Trainng](https://stewartli.github.io/ada_tutorial/)     
 ⚡ [ADA Book](https://stewartli.github.io/ada_book/)    
