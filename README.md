@@ -1,5 +1,5 @@
 ### ✨Audit Data Analytics (ADA)✨
-I'm a Chartered Accountant at [RAudit Solution LLP](https://rauditsolution.netlify.app/) performing data analytics/science in the field of accountinig. 
+I'm a Chartered Accountant performing data analytics in the field of accountinig at [RAudit Solution LLP](https://stewartli.github.io/adaweb/). 
 
 Here are some work examples:   
 ⚡ [Consulting Service](https://stewartli.github.io/adaweb/)    
@@ -11,7 +11,7 @@ Here are some work examples:
 <summary>Retired websites</summary>  
 ⚡ [Old Demo](https://stewartli.github.io/tailwindcss/)        
 ⚡ [Old Blog](https://raudit.netlify.app/)  
-⚡ [Old website](https://rauditsolution.netlify.app/)
+⚡ [Old Website](https://rauditsolution.netlify.app/)
 </details>  
     
 <details>
