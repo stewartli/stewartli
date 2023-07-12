@@ -1,13 +1,19 @@
 ### ✨Audit Data Analytics (ADA)✨
 I'm a Chartered Accountant at [RAudit Solution LLP](https://rauditsolution.netlify.app/) performing data analytics/science in the field of accountinig. 
 
-Here are some work examples:     
-⚡ [Consulting Service](https://stewartli.github.io/tailwindcss/)       
-⚡ [R Blog](https://raudit.netlify.app/)     
-⚡ [ADA Trainng](https://stewartli.github.io/ada_tutorial/)     
-⚡ [ADA Book](https://stewartli.github.io/rauditbookdown/)    
-⚡ [Published Journal Article](https://doi.org/10.1108/MEDAR-06-2020-0920)    
+Here are some work examples:   
+⚡ [Consulting Service](https://stewartli.github.io/adaweb/)    
+⚡ [ADA Book](https://stewartli.github.io/rauditbookdown/)      
+⚡ [Published Journal Article](https://doi.org/10.1108/MEDAR-06-2020-0920)   
+⚡ [ADA Trainng](https://stewartli.github.io/ada_tutorial/)  
 
+<details>
+<summary>Retired websites</summary>  
+⚡ [Old Demo](https://stewartli.github.io/tailwindcss/)        
+⚡ [Old Blog](https://raudit.netlify.app/)  
+⚡ [Old website](https://rauditsolution.netlify.app/)
+</details>  
+    
 <details>
 <summary>Repos meant to remind future me😄</summary>    
 <li>🌱 <a href="https://github.com/stewartli/reactjs">Webpack Configuration</a></li>       
