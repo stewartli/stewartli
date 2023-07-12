@@ -9,9 +9,9 @@ Here are some work examples:
 
 <details>
 <summary>Retired websites</summary>  
-<li>⚡ [Old Demo](https://stewartli.github.io/tailwindcss/)</li>           
-<li>⚡ [Old Blog](https://raudit.netlify.app/)</li>     
-<li>⚡ [Old Website](https://rauditsolution.netlify.app/)</li>     
+<li>⚡ <a href="https://stewartli.github.io/tailwindcss/">Old Demo</a></li>     
+<li>⚡ <a href="https://raudit.netlify.app/">Old Blog</a></li>     
+<li>⚡ <a href="https://rauditsolution.netlify.app/">Old Website</a></li>        
 </details>  
     
 <details>
