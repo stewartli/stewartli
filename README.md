@@ -3,7 +3,8 @@ I'm a Chartered Accountant performing data analytics in the field of accountinig
 
 Here are some work examples:   
 ⚡ [Consulting Service](https://stewartli.github.io/adaweb/)    
-⚡ [ADA Book](https://stewartli.github.io/rauditbookdown/)      
+⚡ [ADA Workflow Book](https://stewartli.github.io/adawf/)      
+⚡ [ADA Analytics Book](https://stewartli.github.io/rauditbookdown/)      
 ⚡ [Published Journal Article](https://doi.org/10.1108/MEDAR-06-2020-0920)   
 ⚡ [ADA Trainng](https://stewartli.github.io/ada_tutorial/)  
 
